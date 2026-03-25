@@ -1,17 +1,20 @@
 # Java Practice Projects
 
-This repository contains basic Java programs created for learning and practice.
+This repository contains basic Java programs and small projects created for learning and practice.
 
 ## Projects Included
 
 - Nokia Snake Game  
-  A basic implementation of the classic snake game.
+  Basic implementation of the classic snake game in Java.
 
-- Other Java programs  
-  Additional small programs created while learning Java.
+- Weather Program  
+  Simple program related to weather data handling.
+
+- SQL Connection  
+  Basic Java program to understand database connectivity.
 
 ## Tech Used
 - Java
 
 ## Note
-These programs were built while learning core Java concepts and improving problem solving skills.
+These programs were created while learning Java concepts and improving problem solving skills.
