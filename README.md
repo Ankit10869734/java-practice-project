@@ -4,8 +4,8 @@ This repository contains basic Java programs and small projects created for lear
 
 ## Projects Included
 
-- Nokia Snake Game  
-  Basic implementation of the classic snake game in Java.
+- Snake Game  
+  Basic implementation of a classic snake game in Java.
 
 - Weather Program  
   Simple program related to weather data handling.
